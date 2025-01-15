@@ -5,6 +5,3 @@ I mostly have experience with Java, but I have also used Python, C#, and C++ bef
 
 # Contact
 braedenchubak AT gmail DOT com (we hate webscrapers)
-
-
-*they call me the goat*
