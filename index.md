@@ -3,3 +3,5 @@ I am Braeden Chubak, a high school student who has been learning CompSci stuff f
 
 # Contact
 braedenchubak AT gmail DOT com (we hate webscrapers)
+
+*they call me the goat*
